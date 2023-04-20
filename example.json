@@ -1,6 +1,7 @@
 {
-   "foo": [
-      "beep",
-      "bar"
-   ]
+  "hello": "world",
+  "example": "one",
+  "array": [
+    "foo"
+  ]
 }
